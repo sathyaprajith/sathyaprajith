@@ -11,18 +11,18 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I am a 4th-semester B.Tech student with a passion for <b>Artificial Intelligence</b> and <b>Full Stack Development</b>. 
-    Currently, I'm working on <strong>Project Neuro Paradigm</strong>, focusing on MRI data processing (ABIDE/SchizConnect) using Deep Learning.
+    I am a 4th-semester B.Tech student building at the intersection of <b>Deep Learning</b> and <b>Web Technology</b>. 
+    Currently, I'm leading <strong>Project Neuro Paradigm</strong>, utilizing MRI data for neurodevelopmental classification.
   </p>
 
   <p>
-    When I'm not training models in <b>Python</b> or <b>PyTorch</b>, I'm building responsive web applications using the <b>MERN stack</b> or solving problems in <b>Java</b> and <b>C</b>.
+    My expertise spans from low-level <b>C</b> and <b>Java</b> to high-level <b>Python</b> and the <b>MERN stack</b>. I enjoy tackling complex problems, whether it's medical imaging or scalable backend architecture.
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/🌍_Hyderabad,_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_&_AI)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🏏_Salaar_Strikers-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏏_Cricket-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🏑_Hockey-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
@@ -41,20 +41,20 @@
 
 <br clear="all" />
 
-## 🛠️ My Skill Vault
+## 🛠️ Tech Stack
 
 <p align="center">
 <table>
 <tr>
 <td width="50%" align="center">
-<h3>💻 Core Programming</h3>
+<h3>💻 Languages</h3>
  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,typescript" />
 <br/><br/>
 </td>
 
 <td width="50%" align="center">
-   <h3>🌐 Web Development</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind" />
+   <h3>🌐 Web Dev</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb" />
 </td>
 
 </tr>
@@ -67,16 +67,16 @@
 
 <td width="50%" align="center">
     <h3>📱 Mobile & Tools</h3>
-    <img src="https://skillicons.dev/icons?i=flutter,dart,git,figma,vscode,postman" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,git,figma,vscode" />
 </td>
 </tr>
 </table>
 </p>
 
-## 🚀 Projects & Focus
-- 🔬 **Neuro Paradigm:** Deep Learning for MRI classification (Skull stripping, Normalization).
-- ☕ **Java Mastery:** Deep dives into JDBC, Collections, and GUI development.
-- 🏗️ **Full Stack App:** Planning a major funding-ready web/mobile project for May 2026.
+## 🚀 Active Research & Projects
+- 🔬 **Neuro Paradigm:** Deep Learning for MRI analysis (Preprocessing, Skull Stripping, Normalization).
+- ☕ **Object Oriented Programming:** Advanced implementation of Java Collections and JDBC.
+- 🏗️ **Full Stack Development:** Building responsive interfaces with React and efficient backends with Node/Python.
 
 ## 📊 GitHub Stats
 
